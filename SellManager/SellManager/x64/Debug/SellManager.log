@@ -1,0 +1,10 @@
+﻿  Reading Qt configuration (C:\Qt\Qt5.9.1\5.9.1\msvc2017_64\bin\qmake.exe)
+  uic Widget.ui
+  rcc Widget.qrc
+  moc Widget.h
+   RCC: Warning: No resources in 'D:\涓汉椤圭洰\SellManager\SellManager\Widget.qrc'.
+  Widget.cpp
+  main.cpp
+  qrc_Widget.cpp
+  moc_Widget.cpp
+  SellManager.vcxproj -> D:\个人项目\SellManager\x64\Debug\SellManager.exe
